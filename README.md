@@ -1,3 +1,3 @@
 # hello-world
-first time/n
+first time 
 including my first issue and working trough the tutorial;
